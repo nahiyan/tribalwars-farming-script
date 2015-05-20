@@ -1,2 +1,1 @@
-# tribalwars-farming-script
-Tribalwars farming script
+#FUCK YOU FAHAD
