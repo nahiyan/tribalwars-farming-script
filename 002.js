@@ -1,6 +1,6 @@
-var village_coords = '535|468 533|469';
+var village_coords = '537|482 530|483 529|484 540|479 541|474 541|475 542|474 543|475';
 var light_cavalry = 15;
-var village_id = 2248;
+var village_id = 1573;
 village_coords = village_coords.split(' ');
 var i = 1;
 
